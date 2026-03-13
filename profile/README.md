@@ -11,7 +11,7 @@
 
 [![Website](https://img.shields.io/badge/Website-swisssalary.com-D62839?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.swisssalary.com)
 [![Documentation](https://img.shields.io/badge/Docs-learn.swisssalary.ch-0078D4?style=for-the-badge&logo=readthedocs&logoColor=white)](https://learn.swisssalary.ch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SwissSalary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/swisssalary)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SwissSalary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/swisssalary-ltd)
 
 </div>
 
@@ -41,7 +41,7 @@ SwissSalary combines the familiar Microsoft environment with state-of-the-art AI
 | Channel | Link |
 |---|---|
 | 🌐 Website | [www.swisssalary.com](https://www.swisssalary.com) |
-| 📚 Product Docs | [learn.onepayroll.com](https://learn.onepayroll.com) |
+| 📚 Product Docs | [learn.swisssalary.ch](https://learn.swisssalary.ch) |
 | 💼 GitHub Org | [github.com/SwissSalary](https://github.com/SwissSalary) |
 
 </div>
