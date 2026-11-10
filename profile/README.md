@@ -41,7 +41,7 @@ SwissSalary combines the familiar Microsoft environment with state-of-the-art AI
 | Channel | Link |
 |---|---|
 | 🌐 Website | [www.swisssalary.com](https://www.swisssalary.com) |
-| 📚 Product Docs | [learn.swisssalary.ch](https://learn.swisssalary.ch) |
+| 📚 Product Docs | [help.swisssalary.ch](https://help.swisssalary.ch) |
 | 💼 GitHub Org | [github.com/SwissSalary](https://github.com/SwissSalary) |
 
 </div>
